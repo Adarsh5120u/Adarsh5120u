@@ -22,7 +22,7 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:adarsh5011@icloud.com">
-      <img src="https://img.shields.io/badge/📧_ac5120u@gmail.com-1e1e2e?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📧_adarsh5011@icloud.com-1e1e2e?style=for-the-badge" />
     </a>
     <img src="https://img.shields.io/badge/🎯_Backend_Strong-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/💰_Freelancing_&_Earning-1e1e2e?style=for-the-badge" />
